@@ -75,7 +75,7 @@ export default function Home() {
             <div className="col-span-2 row-span-2 rounded-[2.5rem] overflow-hidden border border-white/10 group relative">
               <img src={doc2} className="w-full h-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:brightness-75" alt="Doc 2" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 p-6 flex items-end">
-                <span className="text-xs font-bold tracking-widest text-blue-400 uppercase">Posko Utama</span>
+                <span className="text-xs font-bold tracking-widest text-blue-400 uppercase">Dokumentasi Posko</span>
               </div>
             </div>
             <div className="col-span-1 row-span-2 md:row-span-3 rounded-[2.5rem] overflow-hidden border border-white/10 group">
