@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Tambahkan di baris paling atas index.css */
+html {
+  scroll-behavior: smooth;
+}
