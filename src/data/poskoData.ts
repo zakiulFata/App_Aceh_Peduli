@@ -24,9 +24,9 @@ export const poskoData: Posko[] = [
   },
   {
     id: 2,
-    nama: "HMIF KIP USK Peduli",
+    nama: "HMI FKIP USK Peduli",
     alamat: "Jl. Panglima Nyak Makam, Simpang BPKP, Banda Aceh",
-    pic: "M. Iqbal Aulia -> 0822-7724-5024",
+    pic: "M.Daffa Al-ma'arif -> 0822-7724-5024",
     rekening: "BSI 7235328555 a.n. Ade Via Rusmidar",
     deskripsi: "Dikelola oleh mahasiswa untuk menghimpun bantuan makanan, pakaian, dan dana tunai bagi warga terdampak banjir. Tahap pertama sukses disalurkan ke wilayah Pidie Jaya dan Bireun.",
     image: posko2,
