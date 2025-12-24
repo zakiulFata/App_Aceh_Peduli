@@ -28,7 +28,7 @@ export const poskoData: Posko[] = [
     alamat: "Jl. Panglima Nyak Makam, Simpang BPKP, Banda Aceh",
     pic: "M.Daffa Al-ma'arif -> 0822-7724-5024",
     rekening: "BSI 7235328555 a.n. Ade Via Rusmidar",
-    deskripsi: "Dikelola oleh mahasiswa untuk menghimpun bantuan makanan, pakaian, dan dana tunai bagi warga terdampak banjir. Tahap pertama sukses disalurkan ke wilayah Pidie Jaya dan Bireun.",
+    deskripsi: "Dikelola oleh mahasiswa FKIP USK untuk menghimpun bantuan makanan, pakaian, dan dana tunai bagi warga terdampak banjir. Tahap pertama sukses disalurkan ke wilayah Pidie Jaya dan Bireun.",
     image: posko2,
   },
   {
@@ -37,7 +37,7 @@ export const poskoData: Posko[] = [
     alamat: "UIN Ar-Raniry Banda Aceh",
     pic: "tengku Raja Aulia Habibie -> 0813-2956-1507",
     rekening: "BSI 7180784947 a.n Tengku Raja Aulia Habibie",
-    deskripsi: "melakukan pengumpulan donasi  dan menyerahkan langsung donasi melalui relawan dan mengerahkan 23 anggota dema sebagai relawan di wiliyah terdampak banjir yaitu Aceh Tamiang. ",
+    deskripsi: "Dikelola oleh dema UIN Ar-Raniry Banda Aceh untuk melakukan pengumpulan donasi berupa makanan, pakaian, dan dana tunai. dan menyerahkan langsung donasi melalui relawan dan mengerahkan 23 anggota dema sebagai relawan di wiliyah terdampak banjir yaitu Aceh Tamiang. ",
     image: posko3,
   },
 ];
