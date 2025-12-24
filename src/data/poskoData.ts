@@ -35,7 +35,7 @@ export const poskoData: Posko[] = [
     id: 3,
     nama: "Posko DEMA UINAR",
     alamat: "UIN Ar-Raniry Banda Aceh",
-    pic: "tengku Raja Aulia Habibie -> 0813-2956-1507",
+    pic: "Tengku Raja Aulia Habibie -> 0813-2956-1507",
     rekening: "BSI 7180784947 a.n Tengku Raja Aulia Habibie",
     deskripsi: "Dikelola oleh dema UIN Ar-Raniry Banda Aceh untuk melakukan pengumpulan donasi berupa makanan, pakaian, dan dana tunai. dan menyerahkan langsung donasi melalui relawan dan mengerahkan 23 anggota dema sebagai relawan di wiliyah terdampak banjir yaitu Aceh Tamiang. ",
     image: posko3,
