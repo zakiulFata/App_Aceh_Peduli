@@ -18,7 +18,7 @@ export const poskoData: Posko[] = [
     nama: "Posko Lamreung",
     alamat: "Jl. Lamreung, Krueng Barona Jaya, Aceh Besar",
     pic: "Bang Baron -> 0821-6350-2004",
-    rekening: "-",
+    rekening: "Bank Aceh 01002030252880 a.n Samuin",
     deskripsi: "Pusat penerimaan bantuan desa Mns.Papeun. Menerima bantuan berupa makanan, Pakaian, dan dana tunai. Berhasil menyalurkan tahap 1 ke Bireuen dan sedang bersiap untuk tahap berikutnya, dimana taget penyaluran nya meliputi Aceh Timur, Aceh Utara, dan Aceh Tamiang.",
     image: posko1,
   },
